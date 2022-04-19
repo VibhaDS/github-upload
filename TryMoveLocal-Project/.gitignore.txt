@@ -1,0 +1,1 @@
+# Add here the folder name(s) which you want to ignored from github
